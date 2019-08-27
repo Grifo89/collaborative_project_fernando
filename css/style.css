@@ -14,4 +14,29 @@ main{
 
 h1, h2{
   text-align: center;
+  color: #023744;
+}
+
+p{
+  color: #00181e;
+}
+
+li{
+  color: #00181e;
+}
+
+a{
+  text-decoration: none;
+  background: rgba(0, 174, 228, 1);
+  color: white;
+  border-radius: 20%;
+  padding: 0.2em;
+}
+#img-div{
+  text-align: center;
+}
+
+img {
+  width: 30%;
+  height: auto;
 }
